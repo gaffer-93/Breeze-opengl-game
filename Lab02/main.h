@@ -9,7 +9,6 @@
 #ifndef Lab03_main_h
 #define Lab03_main_h
 
-#include "teapot.h" // teapot mesh in a header file. check it out!
 #include <GL/glew.h>
 #include "obj_loader.h"
 #include "sound_engine.h"

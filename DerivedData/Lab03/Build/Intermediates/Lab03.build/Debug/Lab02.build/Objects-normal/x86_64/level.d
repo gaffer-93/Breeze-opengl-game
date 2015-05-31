@@ -1,10 +1,10 @@
 dependencies: \
-  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Lab02/level.cpp \
-  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Lab02/level.h \
-  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Lab02/obj_loader.h \
+  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Breeze-opengl-game/Lab02/level.cpp \
+  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Breeze-opengl-game/Lab02/level.h \
+  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Breeze-opengl-game/Lab02/obj_loader.h \
   /usr/local/include/GL/glew.h /usr/local/include/GLFW/glfw3.h \
-  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Lab02/stb_image.h \
-  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Lab02/ring.h \
+  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Breeze-opengl-game/Lab02/stb_image.h \
+  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Breeze-opengl-game/Lab02/ring.h \
   /usr/local/Cellar/glm/glm/glm.hpp \
   /usr/local/Cellar/glm/glm/detail/_fixes.hpp \
   /usr/local/Cellar/glm/glm/fwd.hpp \
@@ -84,12 +84,13 @@ dependencies: \
   /usr/local/Cellar/glm/glm/gtc/constants.inl \
   /usr/local/Cellar/glm/glm/gtc/matrix_transform.inl \
   /usr/local/Cellar/glm/glm/gtx/transform.hpp \
+  /usr/local/Cellar/glm/glm/gtx/../glm.hpp \
   /usr/local/Cellar/glm/glm/gtx/transform.inl \
   /usr/local/Cellar/glm/glm/gtc/type_ptr.hpp \
   /usr/local/Cellar/glm/glm/gtc/../gtc/quaternion.hpp \
   /usr/local/Cellar/glm/glm/gtc/quaternion.inl \
   /usr/local/Cellar/glm/glm/gtc/type_ptr.inl \
-  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Lab02/sound_engine.h \
+  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Breeze-opengl-game/Lab02/sound_engine.h \
   /usr/local/Cellar/sdl_mixer/1.2.12/include/SDL/SDL_mixer.h \
   /usr/local/Cellar/sdl/1.2.15/include/SDL/SDL_types.h \
   /usr/local/Cellar/sdl/1.2.15/include/SDL/SDL_stdinc.h \

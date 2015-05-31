@@ -51,7 +51,6 @@
 		9149A4D119F29C28008A2ACA /* libGLEW.1.11.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libGLEW.1.11.0.dylib; path = ../../../../../../usr/local/Cellar/glew/1.11.0/lib/libGLEW.1.11.0.dylib; sourceTree = "<group>"; };
 		9149A4D319F29C70008A2ACA /* libglfw.3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libglfw.3.0.dylib; path = ../../../../../../usr/local/lib/libglfw.3.0.dylib; sourceTree = "<group>"; };
 		9149A4D519F29C7B008A2ACA /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
-		9149A4DE19F2A20E008A2ACA /* teapot.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = teapot.h; sourceTree = "<group>"; };
 		91522D5D19FE9B6900838B87 /* obj_loader.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = obj_loader.cpp; sourceTree = "<group>"; };
 		91522D5E19FE9B6900838B87 /* obj_loader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = obj_loader.h; sourceTree = "<group>"; };
 		915E0A8E1A32003B00C6DCC7 /* libSDL-1.2.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libSDL-1.2.0.dylib"; path = "../../../../../../usr/local/Cellar/sdl/1.2.15/lib/libSDL-1.2.0.dylib"; sourceTree = "<group>"; };
@@ -135,7 +134,6 @@
 		9149A4C919F29BD1008A2ACA /* Lab03 */ = {
 			isa = PBXGroup;
 			children = (
-				9149A4DE19F2A20E008A2ACA /* teapot.h */,
 				9149A4CA19F29BD1008A2ACA /* main.cpp */,
 				915E0A951A320CD700C6DCC7 /* sound_engine.cpp */,
 				915E0A961A320CD700C6DCC7 /* sound_engine.h */,

@@ -23,7 +23,7 @@ SoundEngine::SoundEngine(){
         printf("Mix_LoadMUS(\"bgm.wav\"): %s\n", Mix_GetError());
     }
     
-    Mix_VolumeMusic(50);
+    Mix_VolumeMusic(100);
     Mix_PlayMusic( music, -1 );
     
 }

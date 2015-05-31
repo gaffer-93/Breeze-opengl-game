@@ -20,7 +20,7 @@ vec3 light_intensity = vec3(0.7,0.7,1.0); //a.k.a the color of the light
 vec3 l_dir = normalize (vec3 (4.0f, -4.0f, -4.0f));
 vec3 l_a = vec3 (0.7, 0.7, 0.7);    //phong light's ambient colour
 vec3 l_d = vec3 (0.8, 0.8, 0.8);    //phong light's diffuse
-vec3 l_s = vec3 (1.0, 1.0, 1.0);    //phong light's specular
+vec3 l_s = vec3 (1.0, 1.0, 1.0);    //phong light's specularw
 float spec_exp = 100.0f;
 vec3 k_a = texel.xyz;
 vec3 k_d = texel.xyz;
@@ -31,7 +31,7 @@ out vec4 frag_colour;
 void main () {
     
     mat3 normal_matrix = transpose(inverse(mat3(M)));
-    vec3 n_wor = normalize(normal_matrix * normals);
+    vec3 n_wor = normals;//normalize(normal_matrix * normals);
     
     vec3 I = vec3 (0.0, 0.0, 0.0);
     I += l_a * k_a;

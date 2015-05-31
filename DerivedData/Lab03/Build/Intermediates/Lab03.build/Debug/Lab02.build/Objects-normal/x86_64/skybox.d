@@ -1,9 +1,9 @@
 dependencies: \
-  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Lab02/skybox.cpp \
-  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Lab02/skybox.h \
-  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Lab02/obj_loader.h \
+  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Breeze-opengl-game/Lab02/skybox.cpp \
+  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Breeze-opengl-game/Lab02/skybox.h \
+  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Breeze-opengl-game/Lab02/obj_loader.h \
   /usr/local/include/GL/glew.h /usr/local/include/GLFW/glfw3.h \
-  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Lab02/stb_image.h \
+  /Users/Ciaran/Dropbox/Work/Computer\ Graphics/Lab03/Breeze-opengl-game/Lab02/stb_image.h \
   /usr/local/Cellar/glm/glm/glm.hpp \
   /usr/local/Cellar/glm/glm/detail/_fixes.hpp \
   /usr/local/Cellar/glm/glm/fwd.hpp \
@@ -83,6 +83,7 @@ dependencies: \
   /usr/local/Cellar/glm/glm/gtc/constants.inl \
   /usr/local/Cellar/glm/glm/gtc/matrix_transform.inl \
   /usr/local/Cellar/glm/glm/gtx/transform.hpp \
+  /usr/local/Cellar/glm/glm/gtx/../glm.hpp \
   /usr/local/Cellar/glm/glm/gtx/transform.inl \
   /usr/local/Cellar/glm/glm/gtc/type_ptr.hpp \
   /usr/local/Cellar/glm/glm/gtc/../gtc/quaternion.hpp \
